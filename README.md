@@ -8,7 +8,7 @@ Built as a graduation project for the **NTI x ITIDA NLP Summer Training Program 
 
 ## Project Team 2
 
-- **Mohamed Khaled** — Team Lead..
+- **Mohamed Khaled** — Team Lead.
 - Mohamed Azouz
 - Khaled Tarek
 
@@ -82,6 +82,12 @@ Planned approach:
 
 - 🤗 [AI Text Detector (DeBERTa-v2)](https://huggingface.co/mkhaleddeaf/ai-text-detector)
 - 🤗 [Humanizer (T5-small)](https://huggingface.co/mkhaleddeaf/humanizer-t5-small)
+
+## Try it yourself
+
+A public Kaggle notebook runs both models together end-to-end, so you can test the detector and humanizer without setting anything up locally:
+
+▶️ [Try the combined pipeline on Kaggle](https://www.kaggle.com/code/mkhaleddeaf/ai-detector-and-humanizer-6ce700-6954da)
 
 ## Datasets used
 
