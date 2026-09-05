@@ -104,8 +104,6 @@ notebooks/
 ├── detector/           training & tuning notebooks
 ├── humanizer/          humanizer training notebook
 └── text_extraction/    PDF/DOCX/image extraction notebook (uses Qwen2-VL-2B-Instruct for image captioning)
-src/
-└── file_handler.py     text extraction module
 docs/
 ├── test_report.pdf
 └── AI_Detection_Project_Team2_Presentation.pptx
