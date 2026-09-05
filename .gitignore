@@ -1,0 +1,4 @@
+models/
+*.zip
+*.tar.gz
+data/PUT_DATA_HERE.txt
