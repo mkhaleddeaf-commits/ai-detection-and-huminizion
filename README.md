@@ -9,11 +9,8 @@ Built as a graduation project for the **NTI x ITIDA NLP Summer Training Program 
 ## Project Team 2
 
 - **Mohamed Khaled** — Team Lead.
-- Mohamed Azouz
+- Abdelrahman Sherif
 - Khaled Tarek
-
-*(Team member contributions to be detailed further.)*
-
 ---
 
 ## What this is
